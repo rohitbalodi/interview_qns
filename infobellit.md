@@ -1,11 +1,11 @@
 Golang Interview
 
 Round 1:
-    Design of last project you worked on
-    What are interfaces
-    Goroutines v normal threads
-    git rebase
-    basic kubernetes questions
+    Design of last project you worked on,
+    What are interfaces,
+    Goroutines v normal threads,
+    git rebase,
+    basic kubernetes questions,
     Aws lambda
 
 Round 2:
